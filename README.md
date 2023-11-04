@@ -78,7 +78,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/agostinhomarcia/tax-calculator.git
 # Access
 $ cd tax-calculator
-# The server will initialize in the <http://127.0.0.1:5500/index.html>
+# The server will initialize in the <localhost:5173>
 ```
 
 ## :memo: License
