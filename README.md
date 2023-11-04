@@ -81,7 +81,7 @@ $ cd tax-calculator
 # Install dependencies
 $ yarn or npm
 # Run the project
-$ yarn start or npm start
+$ yarn run dev or npm run dev
 # The server will initialize in the <localhost:5173>
 ```
 
