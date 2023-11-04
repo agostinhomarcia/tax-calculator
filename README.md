@@ -78,6 +78,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 $ git clone https://github.com/agostinhomarcia/tax-calculator.git
 # Access
 $ cd tax-calculator
+# Install dependencies
+$ yarn or npm
+# Run the project
+$ yarn start or npm start
 # The server will initialize in the <localhost:5173>
 ```
 
