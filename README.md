@@ -1,27 +1,27 @@
 <p align="center">
-   <img src="https://media.giphy.com/media/lRpT5x598zUoDrN1UA/giphy.gif" alt="currency" width="350"/>
+   <img src="https://media.giphy.com/media/lRpT5x598zUoDrN1UA/giphy.gif" alt="tax-calculator" width="350"/>
 </p>
 
 <p align="right">
-   <img src="https://media.giphy.com/media/9XY5fVNpvU7Ei8B5bW/giphy.gif" alt="currency" width="180"/>
+   <img src="https://media.giphy.com/media/9XY5fVNpvU7Ei8B5bW/giphy.gif" alt="tax-calculator" width="180"/>
 </p>
 
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/currency-converter?color=fcba03">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/tax-calculator?color=28fc03">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/currency-converter?color=fcba03">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/tax-calculator?color=28fc03">
 
-  <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/projeto-pokemon?color=008B8B"> -->
+  <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/tax-calculator?color=008B8B"> -->
 
- <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/projeto-pokemon?color=fcba03">
+ <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/tax-calculator?color=28fc03">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/projeto-pokemon?color=fcba03" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/tax-calculator?color=28fc03" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/projeto-pokemon?color=fcba03" />
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/tax-calculator?color=28fc03" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/currency-converter?color=fcba03" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/tax-calculator?color=28fc03" /> 
 </p>
 
 <p align="center">
@@ -42,13 +42,14 @@
 <h4 align="center"> Tax calculator 💵 </h4>
 
 <p align="center">
-   <img src="/public/tax.gif" alt="pokemon" width="850"/>
+   <img src="/public/tax.gif" alt="tax-calculator" width="850"/>
 </p>
 
 <hr/>
 
 <p align="left">
-  o CurrencyConverter é uma aplicação de conversão de moedas em tempo real, que fornece aos usuários informações atualizadas sobre as taxas de câmbio e permite que eles convertam valores entre diferentes moedas de forma rápida e fácil. É um exemplo simples de um aplicativo React que interage com uma API externa para fornecer funcionalidades úteis aos usuários.
+  This project is a tax calculator developed in React, which allows users to enter personal and income information and, based on this data, calculate the amount of taxes payable.
+
 </p>
 
 ## :sparkles: Features
@@ -73,9 +74,9 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/currency-converter.git
+$ git clone https://github.com/agostinhomarcia/tax-calculator.git
 # Access
-$ cd currency-converter
+$ cd tax-calculator
 # The server will initialize in the <http://127.0.0.1:5500/index.html>
 ```
 
@@ -86,7 +87,7 @@ This project is under the [MIT license](./License).
 Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
 <p align="center">
-   <img src="https://media.giphy.com/media/J4e4WmTdQzy7cmH9Q1/giphy.gif" alt="currency" width="350"/>
+   <img src="https://media.giphy.com/media/J4e4WmTdQzy7cmH9Q1/giphy.gif" alt="tax-calculator" width="350"/>
 </p>
 
 &#xa0;
