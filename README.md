@@ -65,6 +65,7 @@ The following tools were used in this project:
 - [React](https://legacy.reactjs.org/)
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Material-UI](https://mui.com/material-ui/)
 
 ## :white_check_mark: Requirements
 
